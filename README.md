@@ -27,6 +27,10 @@ Like other MMORPG, you should clone a hero with the given usename. All of the he
 
 ## Screenshot
 
+<center>
+![directory structure](http://pomelo.netease.com/image/demo2.png)
+</center>
+
 This is a screenshot in scene one. There are many mobs and one hero named Traxex who is killing the mob for experiences, treasures and equipments.
 
 
