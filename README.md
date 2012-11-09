@@ -32,7 +32,7 @@ which will let you get more equipments and enjoy the game enough.
 ## Viewing
 
  * Visit the [online demo game](http://nodejs.netease.com/lordofpomelo)
- * or you can visit [demo game github](http://github.com/node-pomelo/lordofpomelo)to download the source and install it on your local machine.
+ * or you can visit [demo game github](http://github.com/node-pomelo/lordofpomelo) to download the source and install it on your local machine.
 
 ## Screenshot
 
