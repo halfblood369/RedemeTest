@@ -1,7 +1,11 @@
 ## Lordofpomelo
 
 Lordofpomelo is a browser-based MMORPG(massively multiplayer online role-playing game). 
-The backend is written in node.js based on [pomelo framework](https://github.com/NetEase/pomelo/wiki/Introduction-to-pomelo), which is a fast, scalable, distributed game server framework for node.js. The frontend uses the HTML5 Canvas to draw the map and renders the animations by colorbox, which is a client side game engine written in JavaScript based on HTML5. In this game, the client communicates via websockets with the server. 
+The backend is written in node.js based on [pomelo framework](https://github.com/NetEase/pomelo/wiki/Introduction-to-pomelo), 
+which is a fast, scalable, distributed game server framework for node.js. 
+The frontend uses the HTML5 Canvas to draw the map and renders the animations by colorbox, 
+which is a client side game engine written in JavaScript based on HTML5. In this game, 
+the client communicates via websockets with the server. 
 
 ## How to install
 
