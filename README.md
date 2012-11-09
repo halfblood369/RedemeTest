@@ -36,6 +36,7 @@ Lordofpomelo requires the following npm libraries:
 * express
 * socket.io
 * colorbox
+
 .................
 
 ## Viewing
