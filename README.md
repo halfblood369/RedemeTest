@@ -32,10 +32,10 @@ which will let you get more equipments and enjoy the game enough.
 ## Open source projects
 
 Lordofpomelo requires the following npm libraries:
-> pomelo
-> express
-> socket.io
-> colorbox
+* pomelo
+* express
+* socket.io
+* colorbox
 .................
 
 ## Viewing
