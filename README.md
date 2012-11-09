@@ -55,7 +55,7 @@ Colorbox is a client side game engine written in JavaScript based on HTML5 and s
 
 ## Screenshot
 
-![scene one](http://pomelo.netease.com/image/demo4.PNG)
+![scene one](http://pomelo.netease.com/image/demo4.png)
 
 This is a screenshot in scene one. There are many mobs and one hero named Traxex who is killing the mob for experiences, treasures and equipments.
 
