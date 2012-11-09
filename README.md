@@ -16,7 +16,12 @@ for some problems like port conflicts.
 
 ## How to play
 
-Like other MMORPG, you should clone a hero with the given usename. All of the heros will clone hp, mp, attack and defense etc.There are three scenes in the game, where you can roam casually, kill mob for experiences, treasures and equipments. Ifone mob is killed, more mobs will be cloned, which forces you to improve the hero level and get more powerful equipments.For a better understanding of the game plot, you should visit npc and communicate with it. Task system is very important, which will let you get more equipments and enjoy the game enough.
+Like other MMORPG, you should clone a hero with the given usename. All of the heros will clone hp, mp, attack 
+and defense etc from hero ontology. There are three scenes in the game, where you can roam casually,
+kill mob for experiences, treasures and equipments. Ifone mob is killed, more mobs will be cloned, 
+which forces you to improve the hero level and get more powerful equipments.For a better understanding 
+of the game plot, you should visit npc and communicate with it. Task system is very important, 
+which will let you get more equipments and enjoy the game enough.
 
 ## Requirements
 
