@@ -29,6 +29,12 @@ which will let you get more equipments and enjoy the game enough.
 * Linux or Mac os
 * MySQL
 
+## Open source projects
+
+Lordofpomelo requires the following npm libraries:
+-pomelo
+-express
+
 ## Viewing
 
  * Visit the [online demo game](http://nodejs.netease.com/lordofpomelo)
