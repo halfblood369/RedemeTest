@@ -1,27 +1,18 @@
 ## Lordofpomelo
 
 Lordofpomelo is a browser-based MMORPG(massively multiplayer online role-playing game). 
-The backend is written in node.js based on [pomelo framework](https://github.com/NetEase/pomelo/wiki/Introduction-to-pomelo), 
-which is a fast, scalable, distributed game server framework for node.js. 
-The frontend uses the HTML5 Canvas to draw the map and renders the animations by colorbox, 
-which is a client side game engine written in JavaScript based on HTML5. In this game, 
-the client communicates via websockets with the server. 
+The backend is written in node.js based on [pomelo framework](https://github.com/NetEase/pomelo/wiki/Introduction-to-pomelo), which is a fast, scalable, distributed game server framework for node.js. The frontend uses the HTML5 Canvas to draw the map and renders the animations by colorbox, which is a client side game engine written in JavaScript based on HTML5. In this game, the client communicates via websockets with the server. 
 
 ## How to install
 
 You can install lordofpomelo with the guiding of the document 
 [Installation guide of lordofpomelo](https://github.com/NetEase/pomelo/wiki/Installation-guide-of-lordofpomelo).
 This document provides details on how to install and configure lordofpomelo quickly. Also you can find solutions
-for some problems like port conflicts.
+for some problem like port conflicts.
 
 ## How to play
 
-Like other MMORPG, you should clone a hero with the given usename. All of the heros will clone hp, mp, attack 
-and defense etc from hero ontology. There are three scenes in the game, where you can roam casually,
-kill mob for experiences, treasures and equipments. If one mob is killed, more mobs will be cloned, 
-which forces you to improve the hero level and get more powerful equipments.For a better understanding 
-of the game plot, you should visit npc and communicate with it. Task system is very important, 
-which will let you get more equipments and enjoy the game enough.
+Like other MMORPG, you should clone a hero with the given usename. All of the heros will clone hp, mp, attack and defense etc from hero ontology. There are three scenes in the game, where you can roam casually, kill mob for experiences, treasures and equipments. Ifone mob is killed, more mobs will be cloned, which forces you to improve the hero level and get more powerful equipments.For a better understanding of the game plot, you should visit npc and communicate with it. Task system is very important, which will let you get more equipments and enjoy the game enough.
 
 ## Requirements
 
@@ -32,6 +23,7 @@ which will let you get more equipments and enjoy the game enough.
 ## Open source projects
 
 Lordofpomelo requires the following npm libraries:
+
 * pomelo
 * express
 * socket.io
@@ -39,16 +31,29 @@ Lordofpomelo requires the following npm libraries:
 
 .................
 
+#### pomelo
+
+[Pomelo](http://pomelo.netease.com/) is a fast, scalable, distributed game server framework for node.js. It provides the basic development framework and a lot of related components, including libraries and tools. Pomelo is also suitable for realtime web application, its distributed architecture makes pomelo scales better than other realtime web framework.
+
+#### express
+
+[Express](http://expressjs.com/) is a minimal and flexible node.js web application framework, providing a robust set of features for building single and multi-page, and hybrid web applications. 
+
+#### socket.io
+
+[Socket.io](http://socket.io/) aims to make realtime apps possible in every browser and mobile device, blurring the differences between the different transport mechanisms. It's care-free realtime 100% in JavaScript.
+
+####colorbox
+Colorbox is a client side game engine written in JavaScript based on HTML5 and soon to be open source. 
+
+
+
 ## Viewing
 
- * Visit the [online demo game](http://nodejs.netease.com/lordofpomelo)
- * or you can visit [demo game github](http://github.com/node-pomelo/lordofpomelo) to download the source and install it on your local machine.
+ * Visit the [lordofpomelo](http://nodejs.netease.com/lordofpomelo)
+ * or you can visit [github:lordofpomelo](http://github.com/node-pomelo/lordofpomelo)to download the source and install it on your local machine.
 
 ## Screenshot
-
-<center>
-![directory structure](http://pomelo.netease.com/image/demo2.png)
-</center>
 
 This is a screenshot in scene one. There are many mobs and one hero named Traxex who is killing the mob for experiences, treasures and equipments.
 
