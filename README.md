@@ -12,7 +12,7 @@ the client communicates via websockets with the server.
 You can install lordofpomelo with the guiding of the document 
 [Installation guide of lordofpomelo](https://github.com/NetEase/pomelo/wiki/Installation-guide-of-lordofpomelo).
 This document provides details on how to install and configure lordofpomelo quickly. Also you can find solutions
-for some problem like port conflicts.
+for some problems like port conflicts.
 
 ## How to play
 
